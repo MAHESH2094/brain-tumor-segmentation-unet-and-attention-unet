@@ -1,0 +1,9 @@
+numpy
+tensorflow
+h5py
+nibabel
+opencv-python
+matplotlib
+scikit-learn
+tqdm
+Pillow

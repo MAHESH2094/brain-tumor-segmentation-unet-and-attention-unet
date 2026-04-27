@@ -1,0 +1,53 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Packaging and build outputs
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# IDE and OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Generated project outputs
+logs/
+models/
+results/
+export/FINAL_REPORT.md
+export/final_metrics.json
+export/runs/
+export/submission_package/
+.agent.md
+JIRA_Report_Academically_Polished.docx
+kaggle_preflight_current.txt
+prev_failures.txt
+smoke_check_9_13_current.txt
+smoke_check_cells_9_13.py
+help
+*.h5
+*.hdf5
+*.keras
+*.ckpt
+*.pt
+*.pth
