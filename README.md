@@ -1,6 +1,6 @@
 # Brain Tumor Segmentation with U-Net and Attention U-Net
 
-Multimodal BraTS MRI pipeline for binary brain tumor segmentation, built around U-Net, Attention U-Net, and an optional Attention U-Net + ViT branch.
+End-to-end BraTS brain tumor segmentation pipeline using U-Net, Attention U-Net, and an optional ViT branch, with reproducible training, evaluation, and export workflows.
 
 ## Overview
 
